@@ -1,0 +1,5 @@
+./DOCS/MENU.md
+./DOCS/ABOUT.md
+../docs/DOCS/TAGS.md
+../docs/DOCS/MORE.md
+./DOCS/FOOT.md
