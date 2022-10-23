@@ -1,6 +1,6 @@
 
 
-[![DIALOGWARE](http://logo.dialogware.com/dialogware-2lines.png)](http://roadmap.dialogware.com/)
+[![DIALOGWARE](http://logo.dialogware.com/dialogware-2lines.png)](http://event.dialogware.com/)
 
 # [MENU](https://github.com/dialogware/todo/blob/main/DOCS/MENU.md)  [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/todo/edit/main/DOCS/MENU.md)
 
